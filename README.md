@@ -16,6 +16,10 @@ Also to visualize the effect of the words in the text contributing to positive a
 
 The reuired data can be downloaded from the data folder above or the link provided in introduction section
 
+**Power BI Visualization**
+
+Some basic graphs were created to understand the model prections given in Power BI file uploded
+
 
 **Word Cloud Images**
 
