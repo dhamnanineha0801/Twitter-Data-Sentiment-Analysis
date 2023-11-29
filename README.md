@@ -21,18 +21,18 @@ The reuired data can be downloaded from the data folder above or the link provid
 
 #### Positive sentiment
 
-![Figure 1-1]()
-
+![Figure 1-1](https://github.com/dhamnanineha0801/Twitter-Data-Sentiment-Analysis/blob/main/Word%20Cloud%20Images/Positive_sentiment.png "Figure 1-1")
 
 #### Negative sentiment
 
-![Figure 1-1]()
-
+![Figure 1-1](https://github.com/dhamnanineha0801/Twitter-Data-Sentiment-Analysis/blob/main/Word%20Cloud%20Images/Negative_sentiment.png "Figure 1-1")
 
 
 ### References
 
-```https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset/code
+```
+https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset/code
+
 ```
 
 
